@@ -15,6 +15,10 @@ am Arbeitsplatz genutzt werden können.
 * **Die besten KI-Prompts für kleine und mittlere Unternehmen** [de]: https://www.godaddy.com/resources/de/ai/die-prompt-library-von-godaddy-die-besten-ki-prompts-fuer-kleine-und-mittlere-unternehmen
 * **Must-Try-ChatGPT Prompts** [en]: Große Sammlung von umfangreichen Prompts https://promptadvance.club/chatgpt-prompts
 
+## Sammlung von Bibliotheken 
+
+* **University of Southern California: Prompt Libraries** [en]: Sammlung von Prompt-Bibliotheken [Artificial Intelligence for Business](https://libguides.usc.edu/bizAI/prompts)
+ 
 ## Bibliotheken
 
 * **Anthropic Prompt Library** [en]: Optimierte Prompts für Anthropic Claude https://docs.anthropic.com/en/prompt-library/library
@@ -25,6 +29,7 @@ am Arbeitsplatz genutzt werden können.
 
 ## Generatoren
 
+* **Business Prompt Generator** [de]: Erstellung von Beispiel-Prompts für verschiedene Arbeitsplätze in den Kategorien (einfach, komplex, lustig, sinnlos,...) https://business-prompt-generator.cogpt.de
 * **ChatGPT Prompt Generator** [de]: Aus bis zu 15 Einzelangaben wird ein kompletter Prompt erstellt https://deinkikompass.de/prompt-generator
 * **The Free AI Prompt Generator** [en]: erstellt aus Freitext einen Prompt (funktinoiert nicht stabil) https://www.feedough.com/ai-prompt-generator/
 * **Writing Prompt Generator** [en]: Erstellung von Prompts für Geschichten und Erzählungen https://www.servicescape.com/writing-prompt-generator
