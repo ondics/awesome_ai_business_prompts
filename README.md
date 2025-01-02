@@ -11,7 +11,10 @@ am Arbeitsplatz genutzt werden können.
 
 ## Bibliotheken
 
+* **Brian's Prompt Library** [en]: Umfangreiche Sammlung von geschäftlichen Prompts (z.B. "be a better boss") https://www.askbrian.ai/brians-prompt-library/
+* **ChatGPT Prompts Library** [en]: Prompts für größere Unternehmen ChatGPT Prompts Library https://gptbot.io/chatgpt-prompts/
 * **Ultimate AI Prompt Library** [en]: https://docsbot.ai/prompts
+* **AI prompt library for small businesses** [en]: https://www.godaddy.com/resources/ai-prompts-for-small-business
 
 ## Generatoren
 
