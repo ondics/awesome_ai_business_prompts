@@ -5,12 +5,17 @@ In diesem Repo werden Prompts und Prompt Sammlungen gesammelt.
 Die Prompts beziehen sich in erster Linie auf Prompts, die
 am Arbeitsplatz genutzt werden können.
 
+## Über Prompt-Bibliotheken 
+
+* **What is a prompt library? Why are they useful?** [en]: Über Prompt Bibliotheken https://answers.businesslibrary.uflib.ufl.edu/genai/faq/401435
+
 ## Klein-Business und Digital-Selbständige
 
 * **Must-Try-ChatGPT Prompts** [en]: Große Sammlung von umfangreichen Prompts https://promptadvance.club/chatgpt-prompts
 
 ## Bibliotheken
 
+* **Anthropic Prompt Library** [en]: Optimierte Prompts für Anthropic Claude https://docs.anthropic.com/en/prompt-library/library
 * **Brian's Prompt Library** [en]: Umfangreiche Sammlung von geschäftlichen Prompts (z.B. "be a better boss") https://www.askbrian.ai/brians-prompt-library/
 * **ChatGPT Prompts Library** [en]: Prompts für größere Unternehmen ChatGPT Prompts Library https://gptbot.io/chatgpt-prompts/
 * **Ultimate AI Prompt Library** [en]: https://docsbot.ai/prompts
