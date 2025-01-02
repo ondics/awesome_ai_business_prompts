@@ -5,9 +5,10 @@ In diesem Repo werden Prompts und Prompt Sammlungen gesammelt.
 Die Prompts beziehen sich in erster Linie auf Prompts, die
 am Arbeitsplatz genutzt werden können.
 
-## Über Prompt-Bibliotheken 
+## Über (Business-)Prompt-Bibliotheken
 
 * **What is a prompt library? Why are they useful?** [en]: Über Prompt Bibliotheken https://answers.businesslibrary.uflib.ufl.edu/genai/faq/401435
+* **The importance of having a prompt library in business** [en]: https://mendo.cloud/en/blog/importance-of-having-a-prompts-bookstore-in-company
 
 ## Klein-Business und Digital-Selbständige
 
