@@ -12,6 +12,7 @@ am Arbeitsplatz genutzt werden können.
 
 ## Klein-Business und Digital-Selbständige
 
+* **Die besten KI-Prompts für kleine und mittlere Unternehmen** [de]: https://www.godaddy.com/resources/de/ai/die-prompt-library-von-godaddy-die-besten-ki-prompts-fuer-kleine-und-mittlere-unternehmen
 * **Must-Try-ChatGPT Prompts** [en]: Große Sammlung von umfangreichen Prompts https://promptadvance.club/chatgpt-prompts
 
 ## Bibliotheken
