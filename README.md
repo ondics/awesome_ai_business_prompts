@@ -40,3 +40,7 @@ liefert aus unterschiedlichen geschäftlichen Bereichen  Aufgaben und zugehörig
 ## Erzeugung von Bildern
 
 * **promptoMANIA Prompt Generator** [en]: https://promptomania.com/prompt-builder/
+
+## Prompt Engineering
+
+* ** Prompt Engineering Guide ** [de,en]: Sehr gute grundlegende Einführung in Prompting. https://www.promptingguide.ai/de
