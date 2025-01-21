@@ -24,6 +24,7 @@ liefert aus unterschiedlichen geschäftlichen Bereichen  Aufgaben und zugehörig
  
 ## Bibliotheken
 
+* **AI Prompting Playbook (PDF)** [de]: Umfangreiche Infos zum Prompting und 84 Business-Prompt-Beispiele https://offers.hubspot.de/chatgpt-playbook
 * **Anthropic Prompt Library** [en]: Optimierte Prompts für Anthropic Claude https://docs.anthropic.com/en/prompt-library/library
 * **Brian's Prompt Library** [en]: Umfangreiche Sammlung von geschäftlichen Prompts (z.B. "be a better boss") https://www.askbrian.ai/brians-prompt-library/
 * **ChatGPT Prompts Library** [en]: Prompts für größere Unternehmen ChatGPT Prompts Library https://gptbot.io/chatgpt-prompts/
@@ -43,4 +44,4 @@ liefert aus unterschiedlichen geschäftlichen Bereichen  Aufgaben und zugehörig
 
 ## Prompt Engineering
 
-* ** Prompt Engineering Guide ** [de,en]: Sehr gute grundlegende Einführung in Prompting. https://www.promptingguide.ai/de
+* **Prompt Engineering Guide** [de,en]: Sehr gute grundlegende Einführung in Prompting. https://www.promptingguide.ai/de
